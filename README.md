@@ -64,4 +64,4 @@ Define the content to replace the placeholder
 
 ### References
 ---
-- [[ASP.NET Core Blazor sections](https://#)](https://github.com/ViCunha/e575-Lab-Windows-Localhost-BlazorWebApp-Sections)
+- [ASP.NET Core Blazor sections](https://#)](https://github.com/ViCunha/e575-Lab-Windows-Localhost-BlazorWebApp-Sections)
